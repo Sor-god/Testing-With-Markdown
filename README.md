@@ -4,3 +4,5 @@ New Line<br>
 **Bolded _italic_**
 ***Both**
 #### And more
+
+For complete markdown tricks and hacks [see](https://github.com/toxicbishop/markdown-guide)
