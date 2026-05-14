@@ -2,7 +2,7 @@
 **Bold** _Italic_ <br>
 New Line<br>
 **Bolded _italic_**
-***Both**
+***Both***
 #### And more
 
 For complete markdown tricks and hacks see [this](https://github.com/toxicbishop/markdown-guide)
