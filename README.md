@@ -5,4 +5,4 @@ New Line<br>
 ***Both**
 #### And more
 
-For complete markdown tricks and hacks [see](https://github.com/toxicbishop/markdown-guide)
+For complete markdown tricks and hacks see [this](https://github.com/toxicbishop/markdown-guide)
